@@ -1,6 +1,6 @@
 # Internet_Clock_with_ESP32_Adafruit_ST7789
 
-# PINOUT
+PINOUT
 
 | DISPLAY      | ESP32 WROOM |
 |--------------|-------------|
